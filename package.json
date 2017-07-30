@@ -1,11 +1,19 @@
 {
   "name": "location_app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Connor McKinnon",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connormckinnon93/udacityLocationApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/connormckinnon93/udacityLocationApp/issues"
+  },
+  "homepage": "https://github.com/connormckinnon93/udacityLocationApp#readme",
+  "description": ""
 }
